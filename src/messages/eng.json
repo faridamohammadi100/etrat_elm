@@ -1,0 +1,17 @@
+{
+  "Home": {
+    "title": "Building the Future – One Child, One Classroom at a Time",
+    "subtitle": "Etrat Elm Education Center (EEEC) focuses on educating girls and children in Kabul. Our goal is to educate 20,000 children and 2,000 young women by 2030.",
+    "programs": "Explore Programs",
+    "donate": "Support Us"
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "programs": "Programs",
+    "gallery": "Gallery",
+    "teachers": "Teachers",
+    "blog": "Educational Articles",
+    "contact": "Contact Us"
+  }
+}
